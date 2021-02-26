@@ -1,7 +1,4 @@
-### Hi there I'm Daniel // Hola soy Daniel👋
-
-<!--
-**danield309/danield309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Daniel // Hola soy Daniel 👋
 
 Here are some ideas to get you started:
 
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about back-end web
 - 📫 How to reach me: duque1daniel@gmail.com
 - 😄 Pronouns: He/Him
--->
+<img src="https://github-readme-stats.vercel.app/api?username=danield309&&show_icons=true&title_color=FF0000&icon_color=FE0000&text_color=FEFEFE&bg_color=151515">
